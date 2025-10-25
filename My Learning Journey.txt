@@ -1,0 +1,12 @@
+My Learning Journey
+-------------------
+
+As an ISC student, The only programming language known to me was Java.
+I have learnt a lot from each phase , with the help of youtube and python official websites.
+
+The greatest challenge that i have to face was to learn numerous Jsom file functions.
+The functions like json.load , json.dump etc was hard to memorize.
+So I had to link these keywords with their actual functions in my memory, which took much time to organize
+
+I would be continuing to learn python from now on......
+
